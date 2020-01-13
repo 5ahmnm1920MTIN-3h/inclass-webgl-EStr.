@@ -9,4 +9,8 @@ Mac OS Mojave, Unity 2019.1.14f, Visual Studio Community 2017, Scripting Runtime
 ###Target Platform
 WebGL, reference resolution 960 x 600
 
+###Lessons Learned
+Switch Platform from Standalone to WebLG
+Build WebLG
+
 Copyright by Stranze
